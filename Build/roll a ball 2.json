@@ -1,0 +1,16 @@
+{
+"companyName": "Dayton Gullage",
+"productName": "Roll a Ball",
+"productVersion": "2.0",
+"dataUrl": "roll a ball 2.data.unityweb",
+"wasmCodeUrl": "roll a ball 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "roll a ball 2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
